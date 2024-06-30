@@ -1,0 +1,27 @@
+// [
+  {
+    "Year": 2023,
+    "Month": "January",
+    "Magnitude": 5.2,
+    "Fatalities": 0,
+    "Number of Landslides": 5,
+    "Region": "Asia"
+  },
+  {
+    "Year": 2023,
+    "Month": "February",
+    "Magnitude": 6.1,
+    "Fatalities": 2,
+    "Number of Landslides": 10,
+    "Region": "North America"
+  },
+  {
+    "Year": 2024,
+    "Month": "March",
+    "Magnitude": 7.0,
+    "Fatalities": 12,
+    "Number of Landslides": 20,
+    "Region": "Europe"
+  }
+  // Add more records as needed
+]
